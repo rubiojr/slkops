@@ -1,5 +1,9 @@
 # Slack Ops demo CLI
 
+A Slack CLI, with history!
+
+## Build and Run
+
 ```
 go build
 ```
